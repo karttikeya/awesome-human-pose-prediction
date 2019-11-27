@@ -41,11 +41,45 @@ for human-robot interaction [[Paper]](http://www.nada.kth.se/~hedvig/publication
 - Few-Shot Human Motion Prediction via Meta-learning [[Paper]](https://www.ri.cmu.edu/wp-content/uploads/2018/12/yuxiongw_eccv18_fewshot.pdf)
 - Efficient convolutional hierarchical autoencoder for human motion
 prediction [[Paper]](https://link.springer.com/content/pdf/10.1007%2Fs00371-019-01692-9.pdf)
+- Learning Human Motion Models for Long-term Predictions [[Paper]](https://arxiv.org/pdf/1704.02827.pdf)
+- Long-Term Human Motion Prediction by Modeling Motion Context and
+Enhancing Motion Dynamic [[Paper]](https://arxiv.org/pdf/1805.02513.pdf)
+- Context-aware Human Motion Prediction [[Paper]](https://arxiv.org/pdf/1904.03419.pdf)
+- Adversarial Geometry-Aware Human Motion Prediction [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liangyan_Gui_Adversarial_Geometry-Aware_Human_ECCV_2018_paper.pdf)
+- Convolutional Sequence to Sequence Model for Human Dynamics [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Convolutional_Sequence_to_CVPR_2018_paper.pdf)
+- QuaterNet: A Quaternion-based Recurrent Model for Human Motion [[Paper]](https://arxiv.org/pdf/1805.06485.pdf)
+- BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN [[Paper]](https://arxiv.org/pdf/1812.02591.pdf)
+- Human Motion Modeling using DVGANs [[Paper]](https://arxiv.org/pdf/1804.10652.pdf)
+- Human Motion Prediction using Semi-adaptable Neural Networks [[Paper]](https://arxiv.org/pdf/1810.00781.pdf)
+- A Neural Temporal Model for Human Motion Prediction [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf)
+- Modeling Human Motion with Quaternion-based Neural Networks [[Paper]](https://arxiv.org/pdf/1901.07677.pdf)
+- Human Motion Prediction via Learning Local Structure Representations and
+Temporal Dependencies [[Paper]](https://arxiv.org/pdf/1902.07367.pdf)
+- VRED: A Position-Velocity Recurrent Encoder-Decoder for Human Motion Prediction [[Paper]](https://arxiv.org/pdf/1906.06514.pdf)
+- EAN: Error Attenuation Network for Long-term Human Motion Prediction [[Paper]](https://ieeexplore.ieee.org/abstract/document/8901951)
+- Structured Prediction Helps 3D Human Motion Modelling [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Aksan_Structured_Prediction_Helps_3D_Human_Motion_Modelling_ICCV_2019_paper.pdf)
+- Forecasting Human Dynamics from Static Images [[Paper]](https://arxiv.org/pdf/1704.03432.pdf) 
+- HP-GAN: Probabilistic 3D human motion prediction via GAN [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Barsoum_HP-GAN_Probabilistic_3D_CVPR_2018_paper.pdf)
+- Learning Latent Representations of 3D Human Pose with Deep Neural Networks [[Paper]](https://infoscience.epfl.ch/record/252823/files/main_paper.pdf)
+- A Recurrent Variational Autoencoder for
+Human Motion Synthesis [[Paper]](http://www.ipab.inf.ed.ac.uk/cgvu/0414.pdf)
+- Spatio-temporal Manifold Learning for Human Motions via Long-horizon Modeling [[Paper]](https://arxiv.org/abs/1908.07214)
+- Combining Recurrent Neural Networks and
+Adversarial Training for Human Motion Synthesis and Control [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8826012)
+- PISEP2: Pseudo Image Sequence Evolution based 3D Pose Prediction [[Paper]](https://arxiv.org/pdf/1909.01818.pdf)
+- Human Motion Prediction via Spatio-Temporal Inpainting [[Paper]](https://arxiv.org/pdf/1812.05478.pdf)
+- Spatiotemporal Co-attention Recurrent Neural Networks for Human-Skeleton Motion Prediction [[Paper]](https://arxiv.org/pdf/1909.13245.pdf)
+- Human Pose Forecasting via Deep Markov Models [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8227441)
+- Auto-Conditioned Recurrent Networks For Extended Complex Human Motion Synthesis [[Paper]](https://openreview.net/pdf?id=r11Q2SlRW)
+- Predicting Long-Term Skeletal Motions by a Spatio-Temporal Hierarchical Recurrent Network [[Paper]](https://arxiv.org/pdf/1911.02404.pdf)
 
 ### As a Subtask 
 - The Pose Knows: Video Forecasting by Generating Pose Futures [[Paper]](https://arxiv.org/pdf/1705.00053.pdf)
 - I-Planner: Intention-Aware Motion
 Planning Using Learning Based Human
 Motion Prediction [[Paper]](http://gamma.cs.unc.edu/SafeMP/papers/ijrr18.pdf)
+- Language2Pose: Natural Language Grounded Pose Forecasting [[Paper]](https://arxiv.org/pdf/1907.01108.pdf)
+- Long-Term Video Generation of Multiple Futures Using Human Poses [[Paper]](https://arxiv.org/pdf/1904.07538.pdf)
+- Predicting body movements for person identification under different walking conditions [[Paper]](https://reader.elsevier.com/reader/sd/pii/S0379073818304109?token=76C0C8F3C9DCB97DD1D9C1EB6985414D0E842BCDBB9F3E35389B3CA504BED12F86181D8AACBFB4572674B83842C5A31A)
 
  

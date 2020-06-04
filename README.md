@@ -6,7 +6,7 @@
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
 </p>
 
-A selection of State Of The Art research papers (and code) on human trajectory prediction (forecasting). 
+A selection of State Of The Art research papers (and code) on human trajectory prediction (forecasting). Papers marked with [W] are workshop papers. 
 
 **Maintainers**: [Karttikeya Mangalam](http://karttikeya.github.io/)
 
@@ -26,6 +26,10 @@ for 3D Human Sensing in Natural Environments [[Paper]](http://vision.imar.ro/hum
 ## Papers 
 
 ### As End in Itself
+- Predicting Whole Body Motion Trajectories using Conditional Neural
+Movement Primitives [[Paper]](https://motionpredictionicra2020.github.io/posters/lhmp2020_kurtoglu_paper.pdf) [W]
+- Anticipating Human Intention for Full-Body Motion Prediction [[Paper]](https://motionpredictionicra2020.github.io/posters/lhmp2020_kratzer_paper.pdf) [W]
+- Human Motion Prediction With Graph Neural Networks [[Paper]](https://motionpredictionicra2020.github.io/posters/lhmp2020_guzey_paper.pdf) [W] 
 - Action-Agnostic Human Pose Forecasting [[Paper]](https://arxiv.org/pdf/1810.09676.pdf)
 - Human Torso Pose Forecasting in the Real World [[Paper]](http://harp.ri.cmu.edu/assets/pubs/mmpc_rss2018_biswas.pdf)
 - Imitation Learning for Human Pose Prediction [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Imitation_Learning_for_Human_Pose_Prediction_ICCV_2019_paper.pdf)

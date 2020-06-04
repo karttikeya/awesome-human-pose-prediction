@@ -1,5 +1,5 @@
 # Awesome-Human-Pose-Prediction
-![Version](https://img.shields.io/badge/Version-0.5-ff69b4.svg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2019.11.13-lightgrey.svg) 
+![Version](https://img.shields.io/badge/Version-0.5-ff69b4.svg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.06.04-lightgrey.svg) 
 [![HitCount](http://hits.dwyl.io/karttikeya/Awesome-Human-Pose-Prediction.svg)](http://hits.dwyl.io/karttikeya/Awesome-Human-Pose-Prediction)
 
 <p align="center">

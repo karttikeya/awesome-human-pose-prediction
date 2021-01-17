@@ -22,6 +22,8 @@ Email: mangalam@cs.{berkeley,stanford).edu
 - Human3.6M:
 Large Scale Datasets and Predictive Methods
 for 3D Human Sensing in Natural Environments [[Paper]](http://vision.imar.ro/human3.6m/pami-h36m.pdf)
+- Stanford Drone Dataset (SDD): Learning Social Etiquette: Human Trajectory
+Understanding in Crowded Scenes [[Paper]](http://svl.stanford.edu/assets/papers/ECCV16social.pdf) [[leaderboard]](https://paperswithcode.com/sota/trajectory-prediction-on-stanford-drone)
 
 ## Papers 
 

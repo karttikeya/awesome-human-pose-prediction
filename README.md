@@ -38,6 +38,8 @@ for 3D Human Sensing in Natural Environments [[Paper]](http://vision.imar.ro/hum
 - Social NCE: Contrastive Learning of Socially-aware Motion Representations [[Paper]](https://arxiv.org/pdf/2012.11717.pdf)
 - Multimodal Deep Generative Models for Trajectory Prediction: A Conditional Variational Autoencoder Approach [[Paper]](https://ieeexplore.ieee.org/abstract/document/9286482)
 - Risk-Sensitive Sequential Action Control with Multi-Modal Human Trajectory Forecasting for Safe Crowd-Robot Interaction [[Paper]](https://arxiv.org/pdf/2009.05702.pdf)
+- Deep Learning for Vision-based Prediction: A Survey [[Paper]] (https://arxiv.org/abs/2007.00095)
+- Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network [[Paper]](https://ieeexplore.ieee.org/abstract/document/9123560)
 - Semantics for Robotic Mapping, Perception and Interaction: A Survey [[Paper]](https://arxiv.org/pdf/2101.00443.pdf)
 - Benchmark for Evaluating Pedestrian Action Prediction[[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf)
 - Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking [[Paper]](https://arxiv.org/pdf/2012.02337.pdf)

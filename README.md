@@ -26,6 +26,33 @@ for 3D Human Sensing in Natural Environments [[Paper]](http://vision.imar.ro/hum
 ## Papers 
 
 ### As End in Itself
+- From Goals, Waypoints & Paths To Long Term Human Trajectory Forecasting [[Paper]] (https://arxiv.org/pdf/2012.01526)
+- It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction [[Paper]] (https://arxiv.org/pdf/2004.02025.pdf)
+- Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph [[paper]] (https://arxiv.org/pdf/2009.12916.pdf)
+- Map-Adaptive Goal-Based Trajectory Prediction [[paper]] (https://arxiv.org/pdf/2009.04450.pdf)
+- Interaction-Aware Trajectory Prediction based on a 3D Spatio-Temporal Tensor Representation using Convolutional–Recurrent Neural Networks [[paper]] (https://ieeexplore.ieee.org/abstract/document/9304846)
+- DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning [[Paper]] (https://arxiv.org/pdf/1908.00024)
+- Discrete Residual Flow for Probabilistic Pedestrian Behavior Prediction [[Paper]] (http://proceedings.mlr.press/v100/jain20a.html)
+- Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians [[Paper]] (https://arxiv.org/pdf/2010.09056)
+- Leveraging Neural Network Gradients within Trajectory Optimization for Proactive Human-Robot Interactions [[Paper]] (https://arxiv.org/pdf/2012.01027)
+- Social NCE: Contrastive Learning of Socially-aware Motion Representations [[Paper]] (https://arxiv.org/pdf/2012.11717.pdf)
+- Multimodal Deep Generative Models for Trajectory Prediction: A Conditional Variational Autoencoder Approach [[Paper]] (https://ieeexplore.ieee.org/abstract/document/9286482)
+- Risk-Sensitive Sequential Action Control with Multi-Modal Human Trajectory Forecasting for Safe Crowd-Robot Interaction [[Paper]] (https://arxiv.org/pdf/2009.05702.pdf)
+- Semantics for Robotic Mapping, Perception and Interaction: A Survey [[Paper]] (https://arxiv.org/pdf/2101.00443.pdf)
+- Benchmark for Evaluating Pedestrian Action Prediction[[Paper]] (https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf)
+- Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking [[Paper]] (https://arxiv.org/pdf/2012.02337.pdf)
+- Pedestrian Behavior Prediction via Multitask Learning and Categorical Interaction Modeling [[Paper]] (https://arxiv.org/pdf/2012.03298)
+- Graph-SIM: A Graph-based Spatiotemporal Interaction Modelling for Pedestrian Action Prediction [[Paper]] (https://arxiv.org/pdf/2012.02148.pdf)
+- Haar Wavelet based Block Autoregressive Flows for Trajectories [[Paper]] (https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3267310)
+- Imitative Planning using Conditional Normalizing Flow [[Paper]] (https://arxiv.org/pdf/2007.16162.pdf)
+- TNT: Target-driveN Trajectory Prediction [[Paper]] (https://arxiv.org/pdf/2008.08294.pdf)
+- SimAug: Learning Robust Representations from Simulation for Trajectory Prediction [[Paper]] (https://link.springer.com/chapter/10.1007/978-3-030-58601-0_17)
+- SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints
+ [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.html)
+- Social GAN: Socially Acceptable Trajectories With Generative Adversarial Networks [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Gupta_Social_GAN_Socially_CVPR_2018_paper.html)
+- DESIRE: Distant Future Prediction in Dynamic Scenes With Interacting Agents [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Lee_DESIRE_Distant_Future_CVPR_2017_paper.html)
+
+
 - Predicting Whole Body Motion Trajectories using Conditional Neural
 Movement Primitives [[Paper]](https://motionpredictionicra2020.github.io/posters/lhmp2020_kurtoglu_paper.pdf) [W]
 - Anticipating Human Intention for Full-Body Motion Prediction [[Paper]](https://motionpredictionicra2020.github.io/posters/lhmp2020_kratzer_paper.pdf) [W]
